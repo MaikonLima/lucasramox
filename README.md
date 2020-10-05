@@ -3,10 +3,10 @@
 
 <p align="center">
   <a href="#">
-     <div style="border-radius: 10px 5%;"><img align="center" width="410" src="teste.gif"/></div>
+    <img align="center" width="410" src=""/>
   </a>
   <a href="#">
-    <img align="center" width="410" src="" />
+    <img align="center" width="410" src=""/>
   </a>
 </p>
 
