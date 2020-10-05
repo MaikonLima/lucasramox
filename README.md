@@ -3,7 +3,8 @@
 
 <p align="center">
   <a href="#">
-    <img align="center" width="410" src="teste.gif" style="border-radius: 10px 5%;" />
+    <h1 style="color:blue;">A Blue Heading</h1>
+    <img align="center" width="410" src="teste.gif"/>
   </a>
   <a href="#">
     <img align="center" width="410" src="" />
