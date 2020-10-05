@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="#">
-    <img align="center" width="410" src="gorilarx.jpeg" />
+    <img align="center" width="410" src="gorilarx.jpg" />
   </a>
   <a href="#">
     <img align="center" width="410" src="pocket-rocket.gif" />
