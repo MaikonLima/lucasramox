@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="#">
-    <img align="center" width="410" src="maquina.png"/>
+    <img align="center" width="410" src="sasuke.png"/>
   </a>
   <a href="#">
     <img align="center" width="410" src="" />
