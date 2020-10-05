@@ -3,13 +3,11 @@
 
 <p align="center">
   <a href="#">
-    <h1 style="color:blue;">A Blue Heading</h1>
-    <img align="center" width="410" src="teste.gif"/>
+     <div style="border-radius: 10px 5%;"><img align="center" width="410" src="teste.gif"/></div>
   </a>
   <a href="#">
     <img align="center" width="410" src="" />
   </a>
-   <div class="col-sm-4" style="background-color:lavender;">.col-sm-4</div>
 </p>
 
 <p align="center">
