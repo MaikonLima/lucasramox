@@ -3,10 +3,10 @@
 
 <p align="center">
   <a href="#">
-    <img align="center" width="410" src="gorilarx.jpg" />
+    <img align="center" width="410" src="" />
   </a>
   <a href="#">
-    <img align="center" width="410" src="pocket-rocket.gif" />
+    <img align="center" width="410" src="" />
   </a>
 </p>
 
