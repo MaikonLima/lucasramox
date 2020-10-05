@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="#">
-    <img align="center" width="410" src="maquina.png" style="with:100px;" />
+    <img align="center" width="410" src="maquina.png"/>
   </a>
   <a href="#">
     <img align="center" width="410" src="" />
