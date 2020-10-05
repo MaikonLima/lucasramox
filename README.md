@@ -1,14 +1,14 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasramox)](https://github.com/lucasramox)
 
 
-<p align="center">
+<!--<p align="center">
   <a href="#">
     <img align="center" width="410" src=""/>
   </a>
   <a href="#">
     <img align="center" width="410" src=""/>
   </a>
-</p>
+</p>-->
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
