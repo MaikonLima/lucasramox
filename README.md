@@ -8,6 +8,7 @@
   <a href="#">
     <img align="center" width="410" src="" />
   </a>
+   <div class="col-sm-4" style="background-color:lavender;">.col-sm-4</div>
 </p>
 
 <p align="center">
